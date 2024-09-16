@@ -1,0 +1,83 @@
+C:\Users\Nelson Luna\source\repos\GestorBibliotecaVol\GestorBibliotecaVol\bin\Debug\net8.0-windows\GestorBibliotecaVol.exe
+C:\Users\Nelson Luna\source\repos\GestorBibliotecaVol\GestorBibliotecaVol\bin\Debug\net8.0-windows\GestorBibliotecaVol.deps.json
+C:\Users\Nelson Luna\source\repos\GestorBibliotecaVol\GestorBibliotecaVol\bin\Debug\net8.0-windows\GestorBibliotecaVol.runtimeconfig.json
+C:\Users\Nelson Luna\source\repos\GestorBibliotecaVol\GestorBibliotecaVol\bin\Debug\net8.0-windows\GestorBibliotecaVol.dll
+C:\Users\Nelson Luna\source\repos\GestorBibliotecaVol\GestorBibliotecaVol\bin\Debug\net8.0-windows\GestorBibliotecaVol.pdb
+C:\Users\Nelson Luna\source\repos\GestorBibliotecaVol\GestorBibliotecaVol\obj\Debug\net8.0-windows\GestorBibliotecaVol.FormMenu.resources
+C:\Users\Nelson Luna\source\repos\GestorBibliotecaVol\GestorBibliotecaVol\obj\Debug\net8.0-windows\GestorBibliotecaVol.FormRegistroLibros.resources
+C:\Users\Nelson Luna\source\repos\GestorBibliotecaVol\GestorBibliotecaVol\obj\Debug\net8.0-windows\GestorBibliotecaVol.csproj.GenerateResource.cache
+C:\Users\Nelson Luna\source\repos\GestorBibliotecaVol\GestorBibliotecaVol\obj\Debug\net8.0-windows\GestorBibliotecaVol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nelson Luna\source\repos\GestorBibliotecaVol\GestorBibliotecaVol\obj\Debug\net8.0-windows\GestorBibliotecaVol.AssemblyInfoInputs.cache
+C:\Users\Nelson Luna\source\repos\GestorBibliotecaVol\GestorBibliotecaVol\obj\Debug\net8.0-windows\GestorBibliotecaVol.AssemblyInfo.cs
+C:\Users\Nelson Luna\source\repos\GestorBibliotecaVol\GestorBibliotecaVol\obj\Debug\net8.0-windows\GestorBibliotecaVol.csproj.CoreCompileInputs.cache
+C:\Users\Nelson Luna\source\repos\GestorBibliotecaVol\GestorBibliotecaVol\obj\Debug\net8.0-windows\GestorBibliotecaVol.dll
+C:\Users\Nelson Luna\source\repos\GestorBibliotecaVol\GestorBibliotecaVol\obj\Debug\net8.0-windows\refint\GestorBibliotecaVol.dll
+C:\Users\Nelson Luna\source\repos\GestorBibliotecaVol\GestorBibliotecaVol\obj\Debug\net8.0-windows\GestorBibliotecaVol.pdb
+C:\Users\Nelson Luna\source\repos\GestorBibliotecaVol\GestorBibliotecaVol\obj\Debug\net8.0-windows\GestorBibliotecaVol.genruntimeconfig.cache
+C:\Users\Nelson Luna\source\repos\GestorBibliotecaVol\GestorBibliotecaVol\obj\Debug\net8.0-windows\ref\GestorBibliotecaVol.dll
+C:\Users\Nelson Luna\source\repos\GestorBibliotecaVol\GestorBibliotecaVol\obj\Debug\net8.0-windows\GestorBibliotecaVol.View.FormConsultarLibros.resources
+C:\Users\Nelson Luna\source\repos\GestorBibliotecaVol\GestorBibliotecaVol\obj\Debug\net8.0-windows\GestorBibliotecaVol.View.FormActualizarLibros.resources
+C:\Users\Nelson Luna\source\repos\GestorBibliotecaVol\GestorBibliotecaVol\obj\Debug\net8.0-windows\GestorBibliotecaVol.View.FormEliminarLibros.resources
+C:\Users\123\Downloads\GestorBibliotecaVol\GestorBibliotecaVol\GestorBibliotecaVol\bin\Debug\net8.0-windows\GestorBibliotecaVol.exe
+C:\Users\123\Downloads\GestorBibliotecaVol\GestorBibliotecaVol\GestorBibliotecaVol\bin\Debug\net8.0-windows\GestorBibliotecaVol.deps.json
+C:\Users\123\Downloads\GestorBibliotecaVol\GestorBibliotecaVol\GestorBibliotecaVol\bin\Debug\net8.0-windows\GestorBibliotecaVol.runtimeconfig.json
+C:\Users\123\Downloads\GestorBibliotecaVol\GestorBibliotecaVol\GestorBibliotecaVol\bin\Debug\net8.0-windows\GestorBibliotecaVol.dll
+C:\Users\123\Downloads\GestorBibliotecaVol\GestorBibliotecaVol\GestorBibliotecaVol\bin\Debug\net8.0-windows\GestorBibliotecaVol.pdb
+C:\Users\123\Downloads\GestorBibliotecaVol\GestorBibliotecaVol\GestorBibliotecaVol\obj\Debug\net8.0-windows\GestorBibliotecaVol.View.FormActualizarLibros.resources
+C:\Users\123\Downloads\GestorBibliotecaVol\GestorBibliotecaVol\GestorBibliotecaVol\obj\Debug\net8.0-windows\GestorBibliotecaVol.View.FormConsultarLibros.resources
+C:\Users\123\Downloads\GestorBibliotecaVol\GestorBibliotecaVol\GestorBibliotecaVol\obj\Debug\net8.0-windows\GestorBibliotecaVol.View.FormEliminarLibros.resources
+C:\Users\123\Downloads\GestorBibliotecaVol\GestorBibliotecaVol\GestorBibliotecaVol\obj\Debug\net8.0-windows\GestorBibliotecaVol.FormMenu.resources
+C:\Users\123\Downloads\GestorBibliotecaVol\GestorBibliotecaVol\GestorBibliotecaVol\obj\Debug\net8.0-windows\GestorBibliotecaVol.FormRegistroLibros.resources
+C:\Users\123\Downloads\GestorBibliotecaVol\GestorBibliotecaVol\GestorBibliotecaVol\obj\Debug\net8.0-windows\GestorBibliotecaVol.csproj.GenerateResource.cache
+C:\Users\123\Downloads\GestorBibliotecaVol\GestorBibliotecaVol\GestorBibliotecaVol\obj\Debug\net8.0-windows\GestorBibliotecaVol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\Downloads\GestorBibliotecaVol\GestorBibliotecaVol\GestorBibliotecaVol\obj\Debug\net8.0-windows\GestorBibliotecaVol.AssemblyInfoInputs.cache
+C:\Users\123\Downloads\GestorBibliotecaVol\GestorBibliotecaVol\GestorBibliotecaVol\obj\Debug\net8.0-windows\GestorBibliotecaVol.AssemblyInfo.cs
+C:\Users\123\Downloads\GestorBibliotecaVol\GestorBibliotecaVol\GestorBibliotecaVol\obj\Debug\net8.0-windows\GestorBibliotecaVol.csproj.CoreCompileInputs.cache
+C:\Users\123\Downloads\GestorBibliotecaVol\GestorBibliotecaVol\GestorBibliotecaVol\obj\Debug\net8.0-windows\GestorBibliotecaVol.dll
+C:\Users\123\Downloads\GestorBibliotecaVol\GestorBibliotecaVol\GestorBibliotecaVol\obj\Debug\net8.0-windows\refint\GestorBibliotecaVol.dll
+C:\Users\123\Downloads\GestorBibliotecaVol\GestorBibliotecaVol\GestorBibliotecaVol\obj\Debug\net8.0-windows\GestorBibliotecaVol.pdb
+C:\Users\123\Downloads\GestorBibliotecaVol\GestorBibliotecaVol\GestorBibliotecaVol\obj\Debug\net8.0-windows\GestorBibliotecaVol.genruntimeconfig.cache
+C:\Users\123\Downloads\GestorBibliotecaVol\GestorBibliotecaVol\GestorBibliotecaVol\obj\Debug\net8.0-windows\ref\GestorBibliotecaVol.dll
+C:\Users\123\Downloads\GestorBibliotecaVol\GestorBibliotecaVol\GestorBibliotecaVol\obj\Debug\net8.0-windows\GestorBibliotecaVol.Properties.Resources.resources
+C:\Users\123\Desktop\GestorBibliotecaVol\GestorBibliotecaVol\GestorBibliotecaVol\bin\Debug\net8.0-windows\GestorBibliotecaVol.exe
+C:\Users\123\Desktop\GestorBibliotecaVol\GestorBibliotecaVol\GestorBibliotecaVol\bin\Debug\net8.0-windows\GestorBibliotecaVol.deps.json
+C:\Users\123\Desktop\GestorBibliotecaVol\GestorBibliotecaVol\GestorBibliotecaVol\bin\Debug\net8.0-windows\GestorBibliotecaVol.runtimeconfig.json
+C:\Users\123\Desktop\GestorBibliotecaVol\GestorBibliotecaVol\GestorBibliotecaVol\bin\Debug\net8.0-windows\GestorBibliotecaVol.dll
+C:\Users\123\Desktop\GestorBibliotecaVol\GestorBibliotecaVol\GestorBibliotecaVol\bin\Debug\net8.0-windows\GestorBibliotecaVol.pdb
+C:\Users\123\Desktop\GestorBibliotecaVol\GestorBibliotecaVol\GestorBibliotecaVol\obj\Debug\net8.0-windows\GestorBibliotecaVol.Properties.Resources.resources
+C:\Users\123\Desktop\GestorBibliotecaVol\GestorBibliotecaVol\GestorBibliotecaVol\obj\Debug\net8.0-windows\GestorBibliotecaVol.View.FormActualizarLibros.resources
+C:\Users\123\Desktop\GestorBibliotecaVol\GestorBibliotecaVol\GestorBibliotecaVol\obj\Debug\net8.0-windows\GestorBibliotecaVol.View.FormConsultarLibros.resources
+C:\Users\123\Desktop\GestorBibliotecaVol\GestorBibliotecaVol\GestorBibliotecaVol\obj\Debug\net8.0-windows\GestorBibliotecaVol.View.FormEliminarLibros.resources
+C:\Users\123\Desktop\GestorBibliotecaVol\GestorBibliotecaVol\GestorBibliotecaVol\obj\Debug\net8.0-windows\GestorBibliotecaVol.FormMenu.resources
+C:\Users\123\Desktop\GestorBibliotecaVol\GestorBibliotecaVol\GestorBibliotecaVol\obj\Debug\net8.0-windows\GestorBibliotecaVol.FormRegistroLibros.resources
+C:\Users\123\Desktop\GestorBibliotecaVol\GestorBibliotecaVol\GestorBibliotecaVol\obj\Debug\net8.0-windows\GestorBibliotecaVol.csproj.GenerateResource.cache
+C:\Users\123\Desktop\GestorBibliotecaVol\GestorBibliotecaVol\GestorBibliotecaVol\obj\Debug\net8.0-windows\GestorBibliotecaVol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\Desktop\GestorBibliotecaVol\GestorBibliotecaVol\GestorBibliotecaVol\obj\Debug\net8.0-windows\GestorBibliotecaVol.AssemblyInfoInputs.cache
+C:\Users\123\Desktop\GestorBibliotecaVol\GestorBibliotecaVol\GestorBibliotecaVol\obj\Debug\net8.0-windows\GestorBibliotecaVol.AssemblyInfo.cs
+C:\Users\123\Desktop\GestorBibliotecaVol\GestorBibliotecaVol\GestorBibliotecaVol\obj\Debug\net8.0-windows\GestorBibliotecaVol.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\GestorBibliotecaVol\GestorBibliotecaVol\GestorBibliotecaVol\obj\Debug\net8.0-windows\GestorBibliotecaVol.dll
+C:\Users\123\Desktop\GestorBibliotecaVol\GestorBibliotecaVol\GestorBibliotecaVol\obj\Debug\net8.0-windows\refint\GestorBibliotecaVol.dll
+C:\Users\123\Desktop\GestorBibliotecaVol\GestorBibliotecaVol\GestorBibliotecaVol\obj\Debug\net8.0-windows\GestorBibliotecaVol.pdb
+C:\Users\123\Desktop\GestorBibliotecaVol\GestorBibliotecaVol\GestorBibliotecaVol\obj\Debug\net8.0-windows\GestorBibliotecaVol.genruntimeconfig.cache
+C:\Users\123\Desktop\GestorBibliotecaVol\GestorBibliotecaVol\GestorBibliotecaVol\obj\Debug\net8.0-windows\ref\GestorBibliotecaVol.dll
+C:\Users\raque\Desktop\PROYECTO\GestorBibliotecaVol\GestorBibliotecaVol\bin\Debug\net8.0-windows\GestorBibliotecaVol.exe
+C:\Users\raque\Desktop\PROYECTO\GestorBibliotecaVol\GestorBibliotecaVol\bin\Debug\net8.0-windows\GestorBibliotecaVol.deps.json
+C:\Users\raque\Desktop\PROYECTO\GestorBibliotecaVol\GestorBibliotecaVol\bin\Debug\net8.0-windows\GestorBibliotecaVol.runtimeconfig.json
+C:\Users\raque\Desktop\PROYECTO\GestorBibliotecaVol\GestorBibliotecaVol\bin\Debug\net8.0-windows\GestorBibliotecaVol.dll
+C:\Users\raque\Desktop\PROYECTO\GestorBibliotecaVol\GestorBibliotecaVol\bin\Debug\net8.0-windows\GestorBibliotecaVol.pdb
+C:\Users\raque\Desktop\PROYECTO\GestorBibliotecaVol\GestorBibliotecaVol\obj\Debug\net8.0-windows\GestorBibliotecaVol.Properties.Resources.resources
+C:\Users\raque\Desktop\PROYECTO\GestorBibliotecaVol\GestorBibliotecaVol\obj\Debug\net8.0-windows\GestorBibliotecaVol.View.FormActualizarLibros.resources
+C:\Users\raque\Desktop\PROYECTO\GestorBibliotecaVol\GestorBibliotecaVol\obj\Debug\net8.0-windows\GestorBibliotecaVol.View.FormConsultarLibros.resources
+C:\Users\raque\Desktop\PROYECTO\GestorBibliotecaVol\GestorBibliotecaVol\obj\Debug\net8.0-windows\GestorBibliotecaVol.View.FormEliminarLibros.resources
+C:\Users\raque\Desktop\PROYECTO\GestorBibliotecaVol\GestorBibliotecaVol\obj\Debug\net8.0-windows\GestorBibliotecaVol.FormMenu.resources
+C:\Users\raque\Desktop\PROYECTO\GestorBibliotecaVol\GestorBibliotecaVol\obj\Debug\net8.0-windows\GestorBibliotecaVol.FormRegistroLibros.resources
+C:\Users\raque\Desktop\PROYECTO\GestorBibliotecaVol\GestorBibliotecaVol\obj\Debug\net8.0-windows\GestorBibliotecaVol.csproj.GenerateResource.cache
+C:\Users\raque\Desktop\PROYECTO\GestorBibliotecaVol\GestorBibliotecaVol\obj\Debug\net8.0-windows\GestorBibliotecaVol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raque\Desktop\PROYECTO\GestorBibliotecaVol\GestorBibliotecaVol\obj\Debug\net8.0-windows\GestorBibliotecaVol.AssemblyInfoInputs.cache
+C:\Users\raque\Desktop\PROYECTO\GestorBibliotecaVol\GestorBibliotecaVol\obj\Debug\net8.0-windows\GestorBibliotecaVol.AssemblyInfo.cs
+C:\Users\raque\Desktop\PROYECTO\GestorBibliotecaVol\GestorBibliotecaVol\obj\Debug\net8.0-windows\GestorBibliotecaVol.csproj.CoreCompileInputs.cache
+C:\Users\raque\Desktop\PROYECTO\GestorBibliotecaVol\GestorBibliotecaVol\obj\Debug\net8.0-windows\GestorBibliotecaVol.dll
+C:\Users\raque\Desktop\PROYECTO\GestorBibliotecaVol\GestorBibliotecaVol\obj\Debug\net8.0-windows\refint\GestorBibliotecaVol.dll
+C:\Users\raque\Desktop\PROYECTO\GestorBibliotecaVol\GestorBibliotecaVol\obj\Debug\net8.0-windows\GestorBibliotecaVol.pdb
+C:\Users\raque\Desktop\PROYECTO\GestorBibliotecaVol\GestorBibliotecaVol\obj\Debug\net8.0-windows\GestorBibliotecaVol.genruntimeconfig.cache
+C:\Users\raque\Desktop\PROYECTO\GestorBibliotecaVol\GestorBibliotecaVol\obj\Debug\net8.0-windows\ref\GestorBibliotecaVol.dll
